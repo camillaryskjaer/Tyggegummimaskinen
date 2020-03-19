@@ -9,7 +9,7 @@ namespace Tyggegummimaskinen
 
         public TyggegummiDispenser()
         {
-
+//Hvor er alt din logik henne?
         }
 
     }
